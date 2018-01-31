@@ -1,3 +1,3 @@
 # cloud_computing
 
-Welcome to Cloud Computing!
+Welcome to cloud computing!
